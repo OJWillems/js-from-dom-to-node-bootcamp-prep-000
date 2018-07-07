@@ -1,1 +1,1 @@
-labs
+console.log("Hello, World!")
